@@ -1,0 +1,902 @@
+[
+	{
+		"id": "0001",
+		"type": "Convertible",
+		"status": {
+			"brakes": 1,
+			"fluids": 5,
+			"gas": 2
+		}
+	},
+	{
+		"id": "0002",
+		"type": "Coupe",
+		"status": {
+			"brakes": 5,
+			"fluids": 4,
+			"gas": 4
+		}
+	},
+	{
+		"id": "0003",
+		"type": "Compact",
+		"status": {
+			"brakes": 3,
+			"fluids": 0,
+			"gas": 2
+		}
+	},
+	{
+		"id": "0004",
+		"type": "Compact",
+		"status": {
+			"brakes": 4,
+			"fluids": 1,
+			"gas": 2
+		}
+	},
+	{
+		"id": "0005",
+		"type": "Coupe",
+		"status": {
+			"brakes": 4,
+			"fluids": 2,
+			"gas": 1
+		}
+	},
+	{
+		"id": "0006",
+		"type": "Convertible",
+		"status": {
+			"brakes": 3,
+			"fluids": 0,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0007",
+		"type": "SUV",
+		"status": {
+			"brakes": 5,
+			"fluids": 1,
+			"gas": 1
+		}
+	},
+	{
+		"id": "0008",
+		"type": "SUV",
+		"status": {
+			"brakes": 1,
+			"fluids": 1,
+			"gas": 1
+		}
+	},
+	{
+		"id": "0009",
+		"type": "Van",
+		"status": {
+			"brakes": 3,
+			"fluids": 3,
+			"gas": 3
+		}
+	},
+	{
+		"id": "0010",
+		"type": "Van",
+		"status": {
+			"brakes": 1,
+			"fluids": 3,
+			"gas": 3
+		}
+	},
+	{
+		"id": "0011",
+		"type": "Compact",
+		"status": {
+			"brakes": 2,
+			"fluids": 0,
+			"gas": 3
+		}
+	},
+	{
+		"id": "0012",
+		"type": "Pickup",
+		"status": {
+			"brakes": 1,
+			"fluids": 1,
+			"gas": 3
+		}
+	},
+	{
+		"id": "0013",
+		"type": "Convertible",
+		"status": {
+			"brakes": 0,
+			"fluids": 0,
+			"gas": 5
+		}
+	},
+	{
+		"id": "0014",
+		"type": "Pickup",
+		"status": {
+			"brakes": 3,
+			"fluids": 2,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0015",
+		"type": "Hatchback",
+		"status": {
+			"brakes": 1,
+			"fluids": 2,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0016",
+		"type": "Pickup",
+		"status": {
+			"brakes": 2,
+			"fluids": 2,
+			"gas": 4
+		}
+	},
+	{
+		"id": "0017",
+		"type": "Van",
+		"status": {
+			"brakes": 4,
+			"fluids": 1,
+			"gas": 3
+		}
+	},
+	{
+		"id": "0018",
+		"type": "Van",
+		"status": {
+			"brakes": 5,
+			"fluids": 1,
+			"gas": 4
+		}
+	},
+	{
+		"id": "0019",
+		"type": "Coupe",
+		"status": {
+			"brakes": 5,
+			"fluids": 2,
+			"gas": 1
+		}
+	},
+	{
+		"id": "0020",
+		"type": "Hatchback",
+		"status": {
+			"brakes": 2,
+			"fluids": 4,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0021",
+		"type": "Sedan",
+		"status": {
+			"brakes": 5,
+			"fluids": 2,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0022",
+		"type": "Pickup",
+		"status": {
+			"brakes": 4,
+			"fluids": 1,
+			"gas": 5
+		}
+	},
+	{
+		"id": "0023",
+		"type": "Sedan",
+		"status": {
+			"brakes": 4,
+			"fluids": 0,
+			"gas": 5
+		}
+	},
+	{
+		"id": "0024",
+		"type": "Sedan",
+		"status": {
+			"brakes": 4,
+			"fluids": 2,
+			"gas": 5
+		}
+	},
+	{
+		"id": "0025",
+		"type": "Compact",
+		"status": {
+			"brakes": 2,
+			"fluids": 2,
+			"gas": 2
+		}
+	},
+	{
+		"id": "0026",
+		"type": "Coupe",
+		"status": {
+			"brakes": 3,
+			"fluids": 5,
+			"gas": 1
+		}
+	},
+	{
+		"id": "0027",
+		"type": "Coupe",
+		"status": {
+			"brakes": 0,
+			"fluids": 3,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0028",
+		"type": "Convertible",
+		"status": {
+			"brakes": 3,
+			"fluids": 4,
+			"gas": 1
+		}
+	},
+	{
+		"id": "0029",
+		"type": "Coupe",
+		"status": {
+			"brakes": 2,
+			"fluids": 3,
+			"gas": 4
+		}
+	},
+	{
+		"id": "0030",
+		"type": "Compact",
+		"status": {
+			"brakes": 4,
+			"fluids": 1,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0031",
+		"type": "Coupe",
+		"status": {
+			"brakes": 2,
+			"fluids": 4,
+			"gas": 2
+		}
+	},
+	{
+		"id": "0032",
+		"type": "Sedan",
+		"status": {
+			"brakes": 3,
+			"fluids": 3,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0033",
+		"type": "Convertible",
+		"status": {
+			"brakes": 5,
+			"fluids": 3,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0034",
+		"type": "Coupe",
+		"status": {
+			"brakes": 2,
+			"fluids": 5,
+			"gas": 1
+		}
+	},
+	{
+		"id": "0035",
+		"type": "Coupe",
+		"status": {
+			"brakes": 4,
+			"fluids": 0,
+			"gas": 3
+		}
+	},
+	{
+		"id": "0036",
+		"type": "SUV",
+		"status": {
+			"brakes": 5,
+			"fluids": 2,
+			"gas": 4
+		}
+	},
+	{
+		"id": "0037",
+		"type": "Van",
+		"status": {
+			"brakes": 3,
+			"fluids": 1,
+			"gas": 3
+		}
+	},
+	{
+		"id": "0038",
+		"type": "Coupe",
+		"status": {
+			"brakes": 5,
+			"fluids": 5,
+			"gas": 3
+		}
+	},
+	{
+		"id": "0039",
+		"type": "SUV",
+		"status": {
+			"brakes": 2,
+			"fluids": 3,
+			"gas": 1
+		}
+	},
+	{
+		"id": "0040",
+		"type": "Convertible",
+		"status": {
+			"brakes": 5,
+			"fluids": 3,
+			"gas": 2
+		}
+	},
+	{
+		"id": "0041",
+		"type": "Convertible",
+		"status": {
+			"brakes": 2,
+			"fluids": 0,
+			"gas": 1
+		}
+	},
+	{
+		"id": "0042",
+		"type": "Coupe",
+		"status": {
+			"brakes": 5,
+			"fluids": 2,
+			"gas": 3
+		}
+	},
+	{
+		"id": "0043",
+		"type": "Compact",
+		"status": {
+			"brakes": 2,
+			"fluids": 0,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0044",
+		"type": "Sedan",
+		"status": {
+			"brakes": 3,
+			"fluids": 1,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0045",
+		"type": "Compact",
+		"status": {
+			"brakes": 4,
+			"fluids": 2,
+			"gas": 1
+		}
+	},
+	{
+		"id": "0046",
+		"type": "Sedan",
+		"status": {
+			"brakes": 4,
+			"fluids": 0,
+			"gas": 1
+		}
+	},
+	{
+		"id": "0047",
+		"type": "Pickup",
+		"status": {
+			"brakes": 0,
+			"fluids": 5,
+			"gas": 2
+		}
+	},
+	{
+		"id": "0048",
+		"type": "Coupe",
+		"status": {
+			"brakes": 5,
+			"fluids": 0,
+			"gas": 1
+		}
+	},
+	{
+		"id": "0049",
+		"type": "Van",
+		"status": {
+			"brakes": 3,
+			"fluids": 3,
+			"gas": 3
+		}
+	},
+	{
+		"id": "0050",
+		"type": "Hatchback",
+		"status": {
+			"brakes": 5,
+			"fluids": 1,
+			"gas": 3
+		}
+	},
+	{
+		"id": "0051",
+		"type": "Van",
+		"status": {
+			"brakes": 3,
+			"fluids": 2,
+			"gas": 5
+		}
+	},
+	{
+		"id": "0052",
+		"type": "Compact",
+		"status": {
+			"brakes": 0,
+			"fluids": 0,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0053",
+		"type": "Sedan",
+		"status": {
+			"brakes": 3,
+			"fluids": 1,
+			"gas": 4
+		}
+	},
+	{
+		"id": "0054",
+		"type": "Pickup",
+		"status": {
+			"brakes": 1,
+			"fluids": 1,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0055",
+		"type": "Convertible",
+		"status": {
+			"brakes": 0,
+			"fluids": 1,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0056",
+		"type": "Pickup",
+		"status": {
+			"brakes": 0,
+			"fluids": 2,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0057",
+		"type": "Coupe",
+		"status": {
+			"brakes": 2,
+			"fluids": 2,
+			"gas": 2
+		}
+	},
+	{
+		"id": "0058",
+		"type": "Convertible",
+		"status": {
+			"brakes": 5,
+			"fluids": 2,
+			"gas": 4
+		}
+	},
+	{
+		"id": "0059",
+		"type": "Sedan",
+		"status": {
+			"brakes": 5,
+			"fluids": 2,
+			"gas": 2
+		}
+	},
+	{
+		"id": "0060",
+		"type": "SUV",
+		"status": {
+			"brakes": 2,
+			"fluids": 4,
+			"gas": 2
+		}
+	},
+	{
+		"id": "0061",
+		"type": "Coupe",
+		"status": {
+			"brakes": 0,
+			"fluids": 1,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0062",
+		"type": "Compact",
+		"status": {
+			"brakes": 2,
+			"fluids": 4,
+			"gas": 3
+		}
+	},
+	{
+		"id": "0063",
+		"type": "Coupe",
+		"status": {
+			"brakes": 1,
+			"fluids": 1,
+			"gas": 5
+		}
+	},
+	{
+		"id": "0064",
+		"type": "Hatchback",
+		"status": {
+			"brakes": 2,
+			"fluids": 1,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0065",
+		"type": "Van",
+		"status": {
+			"brakes": 3,
+			"fluids": 4,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0066",
+		"type": "Hatchback",
+		"status": {
+			"brakes": 3,
+			"fluids": 3,
+			"gas": 2
+		}
+	},
+	{
+		"id": "0067",
+		"type": "Compact",
+		"status": {
+			"brakes": 5,
+			"fluids": 0,
+			"gas": 3
+		}
+	},
+	{
+		"id": "0068",
+		"type": "Van",
+		"status": {
+			"brakes": 3,
+			"fluids": 3,
+			"gas": 5
+		}
+	},
+	{
+		"id": "0069",
+		"type": "Hatchback",
+		"status": {
+			"brakes": 4,
+			"fluids": 1,
+			"gas": 3
+		}
+	},
+	{
+		"id": "0070",
+		"type": "SUV",
+		"status": {
+			"brakes": 5,
+			"fluids": 3,
+			"gas": 2
+		}
+	},
+	{
+		"id": "0071",
+		"type": "Pickup",
+		"status": {
+			"brakes": 4,
+			"fluids": 2,
+			"gas": 2
+		}
+	},
+	{
+		"id": "0072",
+		"type": "Pickup",
+		"status": {
+			"brakes": 0,
+			"fluids": 4,
+			"gas": 2
+		}
+	},
+	{
+		"id": "0073",
+		"type": "Coupe",
+		"status": {
+			"brakes": 5,
+			"fluids": 0,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0074",
+		"type": "SUV",
+		"status": {
+			"brakes": 1,
+			"fluids": 0,
+			"gas": 4
+		}
+	},
+	{
+		"id": "0075",
+		"type": "Van",
+		"status": {
+			"brakes": 4,
+			"fluids": 5,
+			"gas": 3
+		}
+	},
+	{
+		"id": "0076",
+		"type": "Sedan",
+		"status": {
+			"brakes": 3,
+			"fluids": 0,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0077",
+		"type": "Hatchback",
+		"status": {
+			"brakes": 5,
+			"fluids": 5,
+			"gas": 4
+		}
+	},
+	{
+		"id": "0078",
+		"type": "Van",
+		"status": {
+			"brakes": 1,
+			"fluids": 5,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0079",
+		"type": "Sedan",
+		"status": {
+			"brakes": 3,
+			"fluids": 4,
+			"gas": 4
+		}
+	},
+	{
+		"id": "0080",
+		"type": "Van",
+		"status": {
+			"brakes": 1,
+			"fluids": 3,
+			"gas": 2
+		}
+	},
+	{
+		"id": "0081",
+		"type": "Pickup",
+		"status": {
+			"brakes": 3,
+			"fluids": 1,
+			"gas": 5
+		}
+	},
+	{
+		"id": "0082",
+		"type": "Hatchback",
+		"status": {
+			"brakes": 5,
+			"fluids": 1,
+			"gas": 1
+		}
+	},
+	{
+		"id": "0083",
+		"type": "SUV",
+		"status": {
+			"brakes": 4,
+			"fluids": 5,
+			"gas": 1
+		}
+	},
+	{
+		"id": "0084",
+		"type": "Convertible",
+		"status": {
+			"brakes": 5,
+			"fluids": 4,
+			"gas": 2
+		}
+	},
+	{
+		"id": "0085",
+		"type": "Pickup",
+		"status": {
+			"brakes": 1,
+			"fluids": 4,
+			"gas": 1
+		}
+	},
+	{
+		"id": "0086",
+		"type": "Sedan",
+		"status": {
+			"brakes": 0,
+			"fluids": 0,
+			"gas": 4
+		}
+	},
+	{
+		"id": "0087",
+		"type": "SUV",
+		"status": {
+			"brakes": 5,
+			"fluids": 3,
+			"gas": 4
+		}
+	},
+	{
+		"id": "0088",
+		"type": "Hatchback",
+		"status": {
+			"brakes": 0,
+			"fluids": 0,
+			"gas": 4
+		}
+	},
+	{
+		"id": "0089",
+		"type": "Coupe",
+		"status": {
+			"brakes": 5,
+			"fluids": 5,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0090",
+		"type": "Hatchback",
+		"status": {
+			"brakes": 1,
+			"fluids": 0,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0091",
+		"type": "Convertible",
+		"status": {
+			"brakes": 3,
+			"fluids": 5,
+			"gas": 4
+		}
+	},
+	{
+		"id": "0092",
+		"type": "Convertible",
+		"status": {
+			"brakes": 1,
+			"fluids": 1,
+			"gas": 3
+		}
+	},
+	{
+		"id": "0093",
+		"type": "Sedan",
+		"status": {
+			"brakes": 4,
+			"fluids": 3,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0094",
+		"type": "Sedan",
+		"status": {
+			"brakes": 5,
+			"fluids": 5,
+			"gas": 3
+		}
+	},
+	{
+		"id": "0095",
+		"type": "Coupe",
+		"status": {
+			"brakes": 1,
+			"fluids": 1,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0096",
+		"type": "Compact",
+		"status": {
+			"brakes": 2,
+			"fluids": 4,
+			"gas": 2
+		}
+	},
+	{
+		"id": "0097",
+		"type": "Convertible",
+		"status": {
+			"brakes": 2,
+			"fluids": 0,
+			"gas": 0
+		}
+	},
+	{
+		"id": "0098",
+		"type": "Coupe",
+		"status": {
+			"brakes": 1,
+			"fluids": 1,
+			"gas": 4
+		}
+	},
+	{
+		"id": "0099",
+		"type": "Hatchback",
+		"status": {
+			"brakes": 4,
+			"fluids": 0,
+			"gas": 4
+		}
+	},
+	{
+		"id": "0100",
+		"type": "Convertible",
+		"status": {
+			"brakes": 3,
+			"fluids": 5,
+			"gas": 5
+		}
+	}
+]
